@@ -1,22 +1,44 @@
-=>To-Do-List-Web-Project
-A simple and responsive web-based To-Do List       application for managing and organizing daily tasks.
+# 📝 To-Do List Web Project
 
-I created using HTML, CSS, and JavaScript.
+A simple To-Do List website that I created using HTML, CSS, and JavaScript.
 
-I made this project to practice my basic web development skills and learn how HTML, CSS, and JavaScript work together.
+---
 
-=>What it can do
+## ✨ Features
 
-- Add a new task
-- Delete a task
-- Keep daily tasks organized
+- ➕ Add new tasks
+- 🗑️ Delete tasks
+- 📋 View daily tasks
+- 🎯 Simple and easy-to-use interface
 
-=>Language used
+---
 
-- HTML
-- CSS
-- JavaScript
+## 🛠️ Technologies Used
 
-=>About the project
+- 🌐 HTML
+- 🎨 CSS
+- ⚡ JavaScript
 
-I created this project as part of my learning journey in web development. It helped me practice creating a webpage, styling it with CSS, and adding functionality using JavaScript.
+---
+
+## 📁 Project Structure
+
+- `index.html` – HTML structure
+- `style.css` – CSS styling
+- `script.js` – JavaScript functionality
+- `README.md` – Project information
+
+---
+
+## 🎓 What I Learned
+
+- Creating webpage structure using HTML
+- Styling webpages using CSS
+- Adding functionality using JavaScript
+- Uploading and managing projects using GitHub
+
+---
+
+## 🚀 About the Project
+
+I created this project as part of my learning journey in web development. It helped me understand how HTML, CSS, and JavaScript work together to create an interactive webpage.
